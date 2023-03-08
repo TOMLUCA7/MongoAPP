@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Tilt Neon', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.headline {
+  font-family: 'Tilt Neon';
+  font-weight: 500;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
